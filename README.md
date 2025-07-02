@@ -3,5 +3,5 @@
 ### Camera_simple_ code
 #### yolo_cam_viewer.py
 -> VRX에서 WAM-V Camera로 보이는 사물을 yolo를 이용해 추론하는 코드
-#### yolo_webcamㅔㅛ
+#### yolo_webcam.py
 -> 컴퓨터 내장 카메라 or 외장 카메라로 보이는 사물을 yolo를 이용해 추론하는 코드
